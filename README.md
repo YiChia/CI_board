@@ -1,5 +1,5 @@
 # CI_board
-Codeigniter  留言板製作
+Codeigniter  留言板製作 (2017.07.03 開始)
 
 功能:
 1.登入系統
